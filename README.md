@@ -1,6 +1,6 @@
 # openwrt-netbird
 
-[![GitHub Actions](https://github.com/messense/openwrt-netbird/workflows/CI/badge.svg)](https://github.com/messense/openwrt-netbird/actions?query=workflow%3ACI)
+[![GitHub Actions](https://github.com/yaobiao131/openwrt-netbird/workflows/CI/badge.svg)](https://github.com/yaobiao131/openwrt-netbird/actions?query=workflow%3ACI)
 
 OpenWrt package for [netbird](https://github.com/netbirdio/netbird)
 
