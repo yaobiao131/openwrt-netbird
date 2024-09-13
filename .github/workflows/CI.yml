@@ -70,7 +70,7 @@ jobs:
 
           ./scripts/feeds install -d y -f -a
           rm -rf feeds/packages/lang/golang
-          git clone https://github.com/sbwml/packages_lang_golang -b 21.x feeds/packages/lang/golang
+          git clone https://github.com/sbwml/packages_lang_golang -b 23.x feeds/packages/lang/golang
           make package/netbird/compile V=s CONFIG_NETBIRD_COMPRESS_UPX=y
           tree bin/packages/
       - name: Archive package
